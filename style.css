@@ -1,0 +1,29 @@
+li:last-of-type {
+    color: red;
+}
+
+li:first-of-type {
+    color: #ffcaca;
+}
+
+li:nth-of-type(2) {
+    text-decoration:underline;
+}
+
+ul:first-of-type {
+    background-color: aqua;
+}
+
+ul:nth-of-type(4) {
+    background-color: rgb(229, 253, 141);
+}
+body {
+    width: 100%;
+}
+.raspesanie {
+    width: 30%;
+text-align: center;
+  margin-left: auto;
+  margin-right:auto ;
+}
+
